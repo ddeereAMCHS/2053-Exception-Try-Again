@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "input1.txt",
+      "setup": "javac ExceptionFiles.java",
+      "run": "java ExceptionFiles && echo \"Displaying contents of file\" && cat output.txt",
+      "input": "gibberish\r\nstillBad.txt\r\ninput1.txt",
+      "output": "cat was skipped\r\ndog was skipped\r\nelephant was skipped\r\nDisplaying contents of file\r\nMean: 14.857\r\nMedian: 12.0\r\nMax: 37\r\nMin: 3",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
