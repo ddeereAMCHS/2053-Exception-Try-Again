@@ -28,7 +28,7 @@ elephant\
 7.5\
 2\
 ***Example Output:***\
-The value in the file is not representative of the amount of data
-Sum of values: 55
-Number of doubles read in as ints: 2
+The value in the file is not representative of the amount of data\
+Sum of values: 55\
+Number of doubles read in as ints: 2\
 Number of non-numeric values: 3
