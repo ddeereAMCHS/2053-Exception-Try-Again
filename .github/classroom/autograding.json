@@ -7,7 +7,7 @@
       "input": "gibberish\r\nstillBad.txt\r\ninput1.txt",
       "output": "The value in the file is not representative of the amount of data\r\nSum of values: 55\r\nNumber of doubles read in as ints: 2\r\nNumber of non-numeric values: 3",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
