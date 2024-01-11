@@ -1,6 +1,6 @@
 # Exception Try Again
 
-## Due: Wed 1/18 at 11:59 PM
+## Due: Wed 1/17 at 11:59 PM
 
 - Create a program called `ExceptionTryAgain.java`
 - Prompt the user for a filename until the user enters the name of a file that exists
